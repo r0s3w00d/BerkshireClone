@@ -1,0 +1,22 @@
+.company-info {
+	color: #000080;
+	text-align: center;
+	line-height: 10px;
+	font-weight: bold;
+}
+.company-title {
+	font-size: 24px;
+	text-transform: uppercase;
+}
+.larger-text {
+	font-size: 30px;
+}
+.smaller-text {
+	font-size: 22px;
+}
+.street-address, .city  {
+	font-size: 18px;
+}
+.home {
+	font-size: 22px;
+}
